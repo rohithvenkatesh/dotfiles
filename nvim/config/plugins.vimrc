@@ -7,8 +7,7 @@ call plug#begin()
 	Plug 'neoclide/coc.nvim', {'branch': 'release'} " autocomplete and snippets for EVERYTHING
 	Plug 'junegunn/goyo.vim' " vim for writing
 	Plug 'mhinz/vim-startify' " vim start page
-	Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
-	Plug 'junegunn/fzf.vim'
+	Plug 'SirVer/ultisnips' "snippets
 
 	" utils
 	Plug 'liuchengxu/vim-which-key' "to make using leader key easier
@@ -27,6 +26,11 @@ call plug#begin()
 	Plug 'arcticicestudio/nord-vim'
 call plug#end()
 
+
+" =============================================================================
+" ultisnips
+" =============================================================================
+ let g:UltiSnipsSnippetDirectories=["custom_snippets"]
 
 " =============================================================================
 " vim-markdown

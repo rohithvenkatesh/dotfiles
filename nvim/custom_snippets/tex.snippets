@@ -138,3 +138,10 @@ endsnippet
 snippet "\|(.*?)\>" "ket" riA
 \ket{`!p snip.rv = match.group(1).replace('q', f'\psi').replace('f', f'\phi')`}
 endsnippet
+
+snippet bordp "Add a border pair" b
+" $1 {{{ ${2:`!p snip.rv = '-' * (int(snip.opt('&tw')) - len(t[1]) - 7)`}
+${0:${VISUAL:" Content }}
+" $1 }}} $2
+endsnippet
+
