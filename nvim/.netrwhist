@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/Users/rohithvenkatesh'
+let g:netrw_dirhist_8='/Users/rohithvenkatesh/Desktop'
+let g:netrw_dirhist_7='/Users/rohithvenkatesh'
+let g:netrw_dirhist_6='/Users/rohithvenkatesh/Google Drive'
+let g:netrw_dirhist_5='/Users/rohithvenkatesh'
+let g:netrw_dirhist_4='/Users/rohithvenkatesh/Google Drive/college/03 senior/01 CMSC457/cmsc457_assignment_1'
+let g:netrw_dirhist_3='/Users/rohithvenkatesh/Google Drive/college/03 senior/01 CMSC457'
+let g:netrw_dirhist_2='/Users/rohithvenkatesh/Google Drive/college/03 senior/01 CMSC457/cmsc457_assignment_1'
+let g:netrw_dirhist_1='/Users/rohithvenkatesh/Google Drive/college/03 senior/01 CMSC457'
+let g:netrw_dirhist_0='/Users/rohithvenkatesh/code/cmsc388j-spring21/p2/flask_app/templates'
