@@ -1,7 +1,8 @@
 " =============================================================================
 " PLUGINS
 " =============================================================================
-"" :PlugInstall, :PlugUpdate, :PlugClean, :PlugStatus, :PlugUpgrade call plug#begin()
+"" :PlugInstall, :PlugUpdate, :PlugClean, :PlugStatus, :PlugUpgrade 
+call plug#begin()
 	" general
 	Plug 'neoclide/coc.nvim', {'branch': 'release'} " autocomplete and snippets for EVERYTHING
 	Plug 'junegunn/goyo.vim' " vim for writing
