@@ -14,4 +14,3 @@ set statusline+=%=
 set statusline+=\%l/%L
 set statusline+=\:%c
 set statusline+=\ %p%%
-

@@ -26,7 +26,7 @@
         "sysPrefix": "/Users/rohithvenkatesh/code/cmsc388j-spring21/venv",
         "fileHash": "0e4aa09239a7b5d5d6a1144d7df39d23129b1f4a479d7c584296a4798f82ba0340561dee8a53f986ff3c2cb4e3910c6851b185bbc98572111bf1c812574d8c01"
       },
-      "expiry": 1612975271128
+      "expiry": 1613581874192
     },
     "/Users/rohithvenkatesh/code/cmsc388j-spring21/venv/bin/python.v3": {
       "data": {
@@ -51,7 +51,7 @@
         "sysPrefix": "/Users/rohithvenkatesh/code/cmsc388j-spring21/venv",
         "fileHash": "b786a633a97797be7d8e71aac7934f13be9177f276be5363faf6f5f6318cea0031ca0417a0e1b1812cbdd80aaa28d7566ed1b99b9510a3facfb27f7d9dc5da3b"
       },
-      "expiry": 1612975271129
+      "expiry": 1613581874178
     },
     "InterpreterAutoSeletionRule-environment": {
       "architecture": 3,
@@ -96,10 +96,10 @@
           "build": [],
           "version": "3.9.1-final"
         },
-        "sysPrefix": "/usr/local/Cellar/python@3.9/3.9.1_7/Frameworks/Python.framework/Versions/3.9",
-        "fileHash": "4f5bf3a0c8fd16bc43b3a1b2a6d6e77982018c18e4d1f90d89d77165b46dec043383463917c81eca61da2e177a71745d44a3b24658bfb562e8c6b15badce1629"
+        "sysPrefix": "/usr/local/Cellar/python@3.9/3.9.1_8/Frameworks/Python.framework/Versions/3.9",
+        "fileHash": "7fd3e7c2477c8dc3c13aa13e435f65c49e94a8db17531a60663d314aaa66147dc71241da20f90672038f8d63a27d43307a8943dfec18d16572a4cdb86aadee7b"
       },
-      "expiry": 1613154457820
+      "expiry": 1613581874136
     },
     "/usr/bin/python.v3": {
       "data": {
@@ -124,7 +124,7 @@
         "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
         "fileHash": "fe779c276a2cbfead74d365db0ac2cbfcea62106a4f0a4f6c9ded35d45b630e271af9461b8083f72f5c25478015c8409ecfa63d05b8eac8c5d1442777dd260d2"
       },
-      "expiry": 1613154457778
+      "expiry": 1613581874150
     },
     "/Users/rohithvenkatesh/code/cmsc388j-spring21/venv/bin/python3.9.v3": {
       "data": {
@@ -149,7 +149,7 @@
         "sysPrefix": "/Users/rohithvenkatesh/code/cmsc388j-spring21/venv",
         "fileHash": "1dd02b130241f2fe7c05e5875bda1c87ed7b92291445e1e65b2dd07a93311e9eb7cab0770bb3d5f37620cfc3bf519f4ba6934cc3d424898f66095976e13074fe"
       },
-      "expiry": 1612975271127
+      "expiry": 1613581874176
     },
     "/usr/local/bin/python3.v3": {
       "data": {
@@ -171,10 +171,10 @@
           "build": [],
           "version": "3.9.1-final"
         },
-        "sysPrefix": "/usr/local/Cellar/python@3.9/3.9.1_7/Frameworks/Python.framework/Versions/3.9",
-        "fileHash": "75d64dd8fd9290649a647ef5566c2c8590011b965e75d25e9917df1958eeac7ca67223f227dd3d29fbe8d81e44138d0837c09eb74668ed707f46f3d1aa3961f2"
+        "sysPrefix": "/usr/local/Cellar/python@3.9/3.9.1_8/Frameworks/Python.framework/Versions/3.9",
+        "fileHash": "5b8f87ed0e8289e371e459182cad5c8f15189e0117bb81722336ac9a2476fdb3c708d06b3ce4a06bdaccb80c4a916df3bb963078230bebde2b49037812047d07"
       },
-      "expiry": 1613154457831
+      "expiry": 1613581874165
     },
     "/usr/bin/python2.7.v3": {
       "data": {
@@ -199,7 +199,7 @@
         "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
         "fileHash": "fe779c276a2cbfead74d365db0ac2cbfcea62106a4f0a4f6c9ded35d45b630e271af9461b8083f72f5c25478015c8409ecfa63d05b8eac8c5d1442777dd260d2"
       },
-      "expiry": 1613154457776
+      "expiry": 1613581874157
     },
     "/usr/bin/python2.v3": {
       "data": {
@@ -224,20 +224,20 @@
         "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
         "fileHash": "fe779c276a2cbfead74d365db0ac2cbfcea62106a4f0a4f6c9ded35d45b630e271af9461b8083f72f5c25478015c8409ecfa63d05b8eac8c5d1442777dd260d2"
       },
-      "expiry": 1613154457777
+      "expiry": 1613581874163
     },
     "/Users/rohithvenkatesh/code/cmsc388j-spring21/venv/bin/python3.interpreter.Details.v7": {
       "data": {
         "fileHash": "0e4aa09239a7b5d5d6a1144d7df39d23129b1f4a479d7c584296a4798f82ba0340561dee8a53f986ff3c2cb4e3910c6851b185bbc98572111bf1c812574d8c01"
       },
-      "expiry": 1612975271134
+      "expiry": 1613581874271
     },
     "/Users/rohithvenkatesh/code/cmsc388j-spring21/venv/bin/python3.interpreter.displayName.v7": {
       "data": {
         "displayName": "Python 3.9.1 64-bit ('venv': venv)",
         "hash": "0e4aa09239a7b5d5d6a1144d7df39d23129b1f4a479d7c584296a4798f82ba0340561dee8a53f986ff3c2cb4e3910c6851b185bbc98572111bf1c812574d8c01-2348191f5e6a43db610d074f565867af"
       },
-      "expiry": 1612975271150
+      "expiry": 1613581874306
     },
     "/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python.v3": {
       "data": {
@@ -262,7 +262,7 @@
         "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
         "fileHash": "fe779c276a2cbfead74d365db0ac2cbfcea62106a4f0a4f6c9ded35d45b630e271af9461b8083f72f5c25478015c8409ecfa63d05b8eac8c5d1442777dd260d2"
       },
-      "expiry": 1613154457858
+      "expiry": 1613581874194
     },
     "INTERPRETERS_CACHE_v3_CurrentPathService": [
       {
@@ -284,8 +284,8 @@
           "build": [],
           "version": "3.9.1-final"
         },
-        "sysPrefix": "/usr/local/Cellar/python@3.9/3.9.1_7/Frameworks/Python.framework/Versions/3.9",
-        "fileHash": "52a9a123f7dde07e6efe11a499f44f41d40535511ad1745928e8303531ecf51ff7c9829c65365a5d33a9859d17fd7482d5e4ee8995d3e86b86848568ae0233c4",
+        "sysPrefix": "/usr/local/Cellar/python@3.9/3.9.1_8/Frameworks/Python.framework/Versions/3.9",
+        "fileHash": "7cc8d1fd842505a3054d0fee243546ba5bdf64b15d018c91aa4a731a2f9550ac1ea703cc4867f58afd0c5aa19fb9cbc2b952ec3057538e9dfc16e74c9348f161",
         "type": "Unknown"
       },
       {
@@ -336,25 +336,25 @@
       },
       {
         "architecture": 3,
-        "path": "/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python",
+        "path": "/Users/rohithvenkatesh/code/cmsc388j-spring21/venv/bin/python3",
         "version": {
           "options": {
             "loose": false,
             "includePrerelease": false
           },
           "loose": false,
-          "raw": "2.7.16-final",
-          "major": 2,
-          "minor": 7,
-          "patch": 16,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
           "prerelease": [
             "final"
           ],
           "build": [],
-          "version": "2.7.16-final"
+          "version": "3.9.1-final"
         },
-        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
-        "fileHash": "fe779c276a2cbfead74d365db0ac2cbfcea62106a4f0a4f6c9ded35d45b630e271af9461b8083f72f5c25478015c8409ecfa63d05b8eac8c5d1442777dd260d2",
+        "sysPrefix": "/Users/rohithvenkatesh/code/cmsc388j-spring21/venv",
+        "fileHash": "0e4aa09239a7b5d5d6a1144d7df39d23129b1f4a479d7c584296a4798f82ba0340561dee8a53f986ff3c2cb4e3910c6851b185bbc98572111bf1c812574d8c01",
         "type": "Unknown"
       }
     ],
@@ -379,8 +379,7 @@
       },
       "sysPrefix": "/Users/rohithvenkatesh/code/cmsc388j-spring21/venv",
       "fileHash": "0e4aa09239a7b5d5d6a1144d7df39d23129b1f4a479d7c584296a4798f82ba0340561dee8a53f986ff3c2cb4e3910c6851b185bbc98572111bf1c812574d8c01",
-      "type": "Unknown",
-      "cachedEntry": true
+      "type": "Unknown"
     },
     "/usr/bin/python3.v3": {
       "data": {
@@ -405,7 +404,7 @@
         "sysPrefix": "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8",
         "fileHash": "fe779c276a2cbfead74d365db0ac2cbfcea62106a4f0a4f6c9ded35d45b630e271af9461b8083f72f5c25478015c8409ecfa63d05b8eac8c5d1442777dd260d2"
       },
-      "expiry": 1613154458098
+      "expiry": 1613581874173
     },
     "INTERPRETERS_CACHE_v3_KnownPathsService": [
       {
@@ -427,8 +426,8 @@
           "build": [],
           "version": "3.9.1-final"
         },
-        "sysPrefix": "/usr/local/Cellar/python@3.9/3.9.1_7/Frameworks/Python.framework/Versions/3.9",
-        "fileHash": "75d64dd8fd9290649a647ef5566c2c8590011b965e75d25e9917df1958eeac7ca67223f227dd3d29fbe8d81e44138d0837c09eb74668ed707f46f3d1aa3961f2",
+        "sysPrefix": "/usr/local/Cellar/python@3.9/3.9.1_8/Frameworks/Python.framework/Versions/3.9",
+        "fileHash": "5b8f87ed0e8289e371e459182cad5c8f15189e0117bb81722336ac9a2476fdb3c708d06b3ce4a06bdaccb80c4a916df3bb963078230bebde2b49037812047d07",
         "type": "Unknown"
       },
       {
@@ -450,8 +449,8 @@
           "build": [],
           "version": "3.9.1-final"
         },
-        "sysPrefix": "/usr/local/Cellar/python@3.9/3.9.1_7/Frameworks/Python.framework/Versions/3.9",
-        "fileHash": "4f5bf3a0c8fd16bc43b3a1b2a6d6e77982018c18e4d1f90d89d77165b46dec043383463917c81eca61da2e177a71745d44a3b24658bfb562e8c6b15badce1629",
+        "sysPrefix": "/usr/local/Cellar/python@3.9/3.9.1_8/Frameworks/Python.framework/Versions/3.9",
+        "fileHash": "7fd3e7c2477c8dc3c13aa13e435f65c49e94a8db17531a60663d314aaa66147dc71241da20f90672038f8d63a27d43307a8943dfec18d16572a4cdb86aadee7b",
         "type": "Unknown"
       },
       {
@@ -565,8 +564,8 @@
           "build": [],
           "version": "3.9.1-final"
         },
-        "sysPrefix": "/usr/local/Cellar/python@3.9/3.9.1_7/Frameworks/Python.framework/Versions/3.9",
-        "fileHash": "75d64dd8fd9290649a647ef5566c2c8590011b965e75d25e9917df1958eeac7ca67223f227dd3d29fbe8d81e44138d0837c09eb74668ed707f46f3d1aa3961f2",
+        "sysPrefix": "/usr/local/Cellar/python@3.9/3.9.1_8/Frameworks/Python.framework/Versions/3.9",
+        "fileHash": "5b8f87ed0e8289e371e459182cad5c8f15189e0117bb81722336ac9a2476fdb3c708d06b3ce4a06bdaccb80c4a916df3bb963078230bebde2b49037812047d07",
         "type": "Unknown"
       },
       {
@@ -588,8 +587,8 @@
           "build": [],
           "version": "3.9.1-final"
         },
-        "sysPrefix": "/usr/local/Cellar/python@3.9/3.9.1_7/Frameworks/Python.framework/Versions/3.9",
-        "fileHash": "4f5bf3a0c8fd16bc43b3a1b2a6d6e77982018c18e4d1f90d89d77165b46dec043383463917c81eca61da2e177a71745d44a3b24658bfb562e8c6b15badce1629",
+        "sysPrefix": "/usr/local/Cellar/python@3.9/3.9.1_8/Frameworks/Python.framework/Versions/3.9",
+        "fileHash": "7fd3e7c2477c8dc3c13aa13e435f65c49e94a8db17531a60663d314aaa66147dc71241da20f90672038f8d63a27d43307a8943dfec18d16572a4cdb86aadee7b",
         "type": "Unknown"
       },
       {
@@ -691,39 +690,39 @@
         "displayName": "Python 3.9.1 64-bit ('venv': venv)",
         "hash": "b786a633a97797be7d8e71aac7934f13be9177f276be5363faf6f5f6318cea0031ca0417a0e1b1812cbdd80aaa28d7566ed1b99b9510a3facfb27f7d9dc5da3b-2e5b528949d160fc3fb9a476d2cd6d80"
       },
-      "expiry": 1612975274451
+      "expiry": 1613581874260
     },
     "/usr/bin/python.interpreter.displayName.v7": {
       "data": {
         "displayName": "Python 2.7.16 64-bit",
         "hash": "fe779c276a2cbfead74d365db0ac2cbfcea62106a4f0a4f6c9ded35d45b630e271af9461b8083f72f5c25478015c8409ecfa63d05b8eac8c5d1442777dd260d2-f5b651b9c4b75532b11ae83303c43d14"
       },
-      "expiry": 1612975274453
+      "expiry": 1613581874261
     },
     "/usr/local/bin/python3.interpreter.displayName.v7": {
       "data": {
         "displayName": "Python 3.9.1 64-bit",
-        "hash": "75d64dd8fd9290649a647ef5566c2c8590011b965e75d25e9917df1958eeac7ca67223f227dd3d29fbe8d81e44138d0837c09eb74668ed707f46f3d1aa3961f2-c3ae87b9e3f77c5787230787eb030366"
+        "hash": "5b8f87ed0e8289e371e459182cad5c8f15189e0117bb81722336ac9a2476fdb3c708d06b3ce4a06bdaccb80c4a916df3bb963078230bebde2b49037812047d07-1014cf6c8495f9a1adb46f510633349f"
       },
-      "expiry": 1613154457842
+      "expiry": 1613581874263
     },
     "/usr/bin/python3.interpreter.displayName.v7": {
       "data": {
         "displayName": "Python 3.8.2 64-bit",
         "hash": "fe779c276a2cbfead74d365db0ac2cbfcea62106a4f0a4f6c9ded35d45b630e271af9461b8083f72f5c25478015c8409ecfa63d05b8eac8c5d1442777dd260d2-b94ba3f7e631b2cac10e62bf95a60276"
       },
-      "expiry": 1612975274455
+      "expiry": 1613581874264
     },
     "/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python.interpreter.displayName.v7": {
       "data": {
         "displayName": "Python 2.7.16 64-bit",
         "hash": "fe779c276a2cbfead74d365db0ac2cbfcea62106a4f0a4f6c9ded35d45b630e271af9461b8083f72f5c25478015c8409ecfa63d05b8eac8c5d1442777dd260d2-a9fb100b1ab04c53a774363838d4885e"
       },
-      "expiry": 1612975274456
+      "expiry": 1613581874267
     },
     "InterpreterAutoSeletionRule-system": {
       "architecture": 3,
-      "path": "/usr/local/bin/python3",
+      "path": "/usr/local/opt/python@3.9/bin/python3.9",
       "version": {
         "options": {
           "loose": false,
@@ -740,10 +739,9 @@
         "build": [],
         "version": "3.9.1-final"
       },
-      "sysPrefix": "/usr/local/Cellar/python@3.9/3.9.1_7/Frameworks/Python.framework/Versions/3.9",
-      "fileHash": "75d64dd8fd9290649a647ef5566c2c8590011b965e75d25e9917df1958eeac7ca67223f227dd3d29fbe8d81e44138d0837c09eb74668ed707f46f3d1aa3961f2",
+      "sysPrefix": "/usr/local/Cellar/python@3.9/3.9.1_8/Frameworks/Python.framework/Versions/3.9",
+      "fileHash": "7cc8d1fd842505a3054d0fee243546ba5bdf64b15d018c91aa4a731a2f9550ac1ea703cc4867f58afd0c5aa19fb9cbc2b952ec3057538e9dfc16e74c9348f161",
       "type": "Unknown",
-      "cachedEntry": true,
       "displayName": "Python 3.9.1 64-bit"
     },
     "/Users/rohithvenkatesh/code/cmsc388j-spring21/venv/bin/python.interpreter.Details.v7": {
@@ -775,7 +773,7 @@
           "displayName": "Python 3.9.1 64-bit ('venv': venv)"
         }
       },
-      "expiry": 1612975274496
+      "expiry": 1613581874283
     },
     "/usr/bin/python.interpreter.Details.v7": {
       "data": {
@@ -805,11 +803,11 @@
           "displayName": "Python 2.7.16 64-bit"
         }
       },
-      "expiry": 1612975274498
+      "expiry": 1613581874286
     },
     "/usr/local/bin/python3.interpreter.Details.v7": {
       "data": {
-        "fileHash": "75d64dd8fd9290649a647ef5566c2c8590011b965e75d25e9917df1958eeac7ca67223f227dd3d29fbe8d81e44138d0837c09eb74668ed707f46f3d1aa3961f2",
+        "fileHash": "5b8f87ed0e8289e371e459182cad5c8f15189e0117bb81722336ac9a2476fdb3c708d06b3ce4a06bdaccb80c4a916df3bb963078230bebde2b49037812047d07",
         "info": {
           "architecture": 3,
           "path": "/usr/local/bin/python3",
@@ -829,15 +827,13 @@
             "build": [],
             "version": "3.9.1-final"
           },
-          "sysPrefix": "/usr/local/Cellar/python@3.9/3.9.1_7/Frameworks/Python.framework/Versions/3.9",
-          "fileHash": "75d64dd8fd9290649a647ef5566c2c8590011b965e75d25e9917df1958eeac7ca67223f227dd3d29fbe8d81e44138d0837c09eb74668ed707f46f3d1aa3961f2",
+          "sysPrefix": "/usr/local/Cellar/python@3.9/3.9.1_8/Frameworks/Python.framework/Versions/3.9",
+          "fileHash": "5b8f87ed0e8289e371e459182cad5c8f15189e0117bb81722336ac9a2476fdb3c708d06b3ce4a06bdaccb80c4a916df3bb963078230bebde2b49037812047d07",
           "type": "Unknown",
-          "cachedEntry": true,
-          "displayName": "Python 3.9.1 64-bit",
-          "__store": true
+          "displayName": "Python 3.9.1 64-bit"
         }
       },
-      "expiry": 1613154457813
+      "expiry": 1613581874289
     },
     "/usr/bin/python3.interpreter.Details.v7": {
       "data": {
@@ -867,7 +863,7 @@
           "displayName": "Python 3.8.2 64-bit"
         }
       },
-      "expiry": 1612975274503
+      "expiry": 1613581874292
     },
     "/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python.interpreter.Details.v7": {
       "data": {
@@ -897,11 +893,11 @@
           "displayName": "Python 2.7.16 64-bit"
         }
       },
-      "expiry": 1612975274506
+      "expiry": 1613581874297
     },
     "InterpreterAutoSeletionRule-cachedInterpreters": {
       "architecture": 3,
-      "path": "/usr/local/bin/python3",
+      "path": "/usr/local/opt/python@3.9/bin/python3.9",
       "version": {
         "options": {
           "loose": false,
@@ -918,8 +914,8 @@
         "build": [],
         "version": "3.9.1-final"
       },
-      "sysPrefix": "/usr/local/Cellar/python@3.9/3.9.1_7/Frameworks/Python.framework/Versions/3.9",
-      "fileHash": "75d64dd8fd9290649a647ef5566c2c8590011b965e75d25e9917df1958eeac7ca67223f227dd3d29fbe8d81e44138d0837c09eb74668ed707f46f3d1aa3961f2",
+      "sysPrefix": "/usr/local/Cellar/python@3.9/3.9.1_8/Frameworks/Python.framework/Versions/3.9",
+      "fileHash": "7cc8d1fd842505a3054d0fee243546ba5bdf64b15d018c91aa4a731a2f9550ac1ea703cc4867f58afd0c5aa19fb9cbc2b952ec3057538e9dfc16e74c9348f161",
       "type": "Unknown",
       "displayName": "Python 3.9.1 64-bit"
     },
@@ -968,10 +964,71 @@
           "build": [],
           "version": "3.9.1-final"
         },
-        "sysPrefix": "/usr/local/Cellar/python@3.9/3.9.1_7/Frameworks/Python.framework/Versions/3.9",
-        "fileHash": "52a9a123f7dde07e6efe11a499f44f41d40535511ad1745928e8303531ecf51ff7c9829c65365a5d33a9859d17fd7482d5e4ee8995d3e86b86848568ae0233c4"
+        "sysPrefix": "/usr/local/Cellar/python@3.9/3.9.1_8/Frameworks/Python.framework/Versions/3.9",
+        "fileHash": "7cc8d1fd842505a3054d0fee243546ba5bdf64b15d018c91aa4a731a2f9550ac1ea703cc4867f58afd0c5aa19fb9cbc2b952ec3057538e9dfc16e74c9348f161"
       },
-      "expiry": 1613154457851
+      "expiry": 1613581874190
+    },
+    "InterpreterAutoSeletionRule-workspaceEnvs": {
+      "architecture": 3,
+      "path": "/Users/rohithvenkatesh/code/cmsc388j-spring21/venv/bin/python3.9",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.1-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 1,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.1-final"
+      },
+      "sysPrefix": "/Users/rohithvenkatesh/code/cmsc388j-spring21/venv",
+      "fileHash": "1dd02b130241f2fe7c05e5875bda1c87ed7b92291445e1e65b2dd07a93311e9eb7cab0770bb3d5f37620cfc3bf519f4ba6934cc3d424898f66095976e13074fe",
+      "envName": "venv",
+      "type": "Venv"
+    },
+    "/usr/local/opt/python@3.9/bin/python3.9.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.1 64-bit",
+        "hash": "7cc8d1fd842505a3054d0fee243546ba5bdf64b15d018c91aa4a731a2f9550ac1ea703cc4867f58afd0c5aa19fb9cbc2b952ec3057538e9dfc16e74c9348f161-d98703e878ac0eb3ca8ff0017ac258fa"
+      },
+      "expiry": 1613581874265
+    },
+    "/usr/local/opt/python@3.9/bin/python3.9.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "7cc8d1fd842505a3054d0fee243546ba5bdf64b15d018c91aa4a731a2f9550ac1ea703cc4867f58afd0c5aa19fb9cbc2b952ec3057538e9dfc16e74c9348f161",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/local/opt/python@3.9/bin/python3.9",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.1-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 1,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.1-final"
+          },
+          "sysPrefix": "/usr/local/Cellar/python@3.9/3.9.1_8/Frameworks/Python.framework/Versions/3.9",
+          "fileHash": "7cc8d1fd842505a3054d0fee243546ba5bdf64b15d018c91aa4a731a2f9550ac1ea703cc4867f58afd0c5aa19fb9cbc2b952ec3057538e9dfc16e74c9348f161",
+          "type": "Unknown",
+          "displayName": "Python 3.9.1 64-bit"
+        }
+      },
+      "expiry": 1613581874294
     }
   },
   "coc-python|/Users/rohithvenkatesh/code/cmsc388j-spring21": {
@@ -1128,7 +1185,7 @@
     ],
     "autoSelectedWorkspacePythonInterpreter-/Users/rohithvenkatesh/code/cmsc388j-spring21": {
       "architecture": 3,
-      "path": "/Users/rohithvenkatesh/code/cmsc388j-spring21/venv/bin/python3",
+      "path": "/Users/rohithvenkatesh/code/cmsc388j-spring21/venv/bin/python3.9",
       "version": {
         "options": {
           "loose": false,
@@ -1146,11 +1203,16 @@
         "version": "3.9.1-final"
       },
       "sysPrefix": "/Users/rohithvenkatesh/code/cmsc388j-spring21/venv",
-      "fileHash": "0e4aa09239a7b5d5d6a1144d7df39d23129b1f4a479d7c584296a4798f82ba0340561dee8a53f986ff3c2cb4e3910c6851b185bbc98572111bf1c812574d8c01",
-      "type": "VirtualEnv"
+      "fileHash": "1dd02b130241f2fe7c05e5875bda1c87ed7b92291445e1e65b2dd07a93311e9eb7cab0770bb3d5f37620cfc3bf519f4ba6934cc3d424898f66095976e13074fe",
+      "envName": "venv",
+      "type": "Venv"
     }
   },
   "coc-python|/Users/rohithvenkatesh": {
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [],
+    "INTERPRETERS_CACHE_v3_PipEnvService": []
+  },
+  "coc-python|/Users/rohithvenkatesh/code": {
     "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [],
     "INTERPRETERS_CACHE_v3_PipEnvService": []
   }
