@@ -1,7 +1,10 @@
 " =============================================================================
 " vim-latex
 " =============================================================================
-let g:livepreview_previewer = 'open -a Preview'
+let g:livepreview_previewer = 'open -a Skim'
+let g:vimtex_view_method = 'skim'
+let g:vimtex_fold_enabled = 1
+let g:polyglot_disabled = ['latex']
 let g:tex_conceal="abdmg"
 
 " use <tab> for trigger completion and navigate to the next complete item

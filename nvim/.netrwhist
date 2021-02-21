@@ -1,5 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =4
+let g:netrw_dirhistcnt =5
+let g:netrw_dirhist_5='/Users/rohithvenkatesh/code/cmsc388j-spring21'
 let g:netrw_dirhist_4='/Users/rohithvenkatesh/code/cmsc388j-spring21/p2/flask_app/templates'
 let g:netrw_dirhist_3='/Users/rohithvenkatesh/code/cmsc388j-spring21/p2/flask_app'
 let g:netrw_dirhist_2='/Users/rohithvenkatesh/.config/nvim/config'
@@ -9,4 +10,3 @@ let g:netrw_dirhist_9='/Users/rohithvenkatesh'
 let g:netrw_dirhist_8='/Users/rohithvenkatesh/Desktop'
 let g:netrw_dirhist_7='/Users/rohithvenkatesh'
 let g:netrw_dirhist_6='/Users/rohithvenkatesh/Google Drive'
-let g:netrw_dirhist_5='/Users/rohithvenkatesh'

@@ -9,6 +9,8 @@ call plug#begin()
 	Plug 'mhinz/vim-startify' " vim start page
 	Plug 'SirVer/ultisnips' "snippets
 	Plug 'ctrlpvim/ctrlp.vim' "fuzzy file searching
+	Plug 'itchyny/lightline.vim' "statusline
+	Plug 'mengelbrecht/lightline-bufferline' "show buffers lightline
 
 	" utils
 	Plug 'liuchengxu/vim-which-key' "to make using leader key easier
@@ -16,8 +18,6 @@ call plug#begin()
 	Plug 'rhysd/clever-f.vim' "better f,F,t,T
 	Plug 'ap/vim-css-color' "colored text on colors
 	Plug 'ryanoasis/vim-devicons' "icons in vim
-	Plug 'itchyny/lightline.vim' "statusline
-	Plug 'mengelbrecht/lightline-bufferline' "show buffers lightline
 
 	" markdown
 	Plug 'plasticboy/vim-markdown'
@@ -35,3 +35,7 @@ call plug#end()
 " =============================================================================
 let g:vim_markdown_new_list_item_indent = 0 "vim-markdown
 command! -nargs=0 Prettier :CocCommand prettier.formatFile "coc-prettier
+"ctrlp
+if executable('rg')
+  let g:ctrlp_user_command = 'rg %s --files --hidden --color=never --glob ""'
+endif
